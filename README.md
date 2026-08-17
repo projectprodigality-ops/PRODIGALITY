@@ -7,7 +7,7 @@
 </h2>
 
 ## Layer Information
-Prodigality is the sixth layer of the now cancelled Project Purgatorio, and is divided by social class. Lower husks rot in slum cities, while greater machines and demons spend eternity lavished in useless wealth. The layer functions a lot like Heresy, where there is a section before the big drop, but is divided mainly into four sections:
+Prodigality is the sixth layer of Purgatory, and is divided by social class. Lower husks rot in slum cities, while greater machines and demons spend eternity lavished in useless wealth. The layer functions a lot like Heresy, where there is a section before the big drop, but is divided mainly into four sections:
 - UNDERBELLY
 - PIPE-WORKS
 - HIGH SOCIETY
